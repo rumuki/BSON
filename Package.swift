@@ -6,5 +6,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "BSON"
+    name: "BSON",
+    swiftLanguageVersions: [.v4_2]
 )
