@@ -1,0 +1,1 @@
+{"object": {"artifacts": [], "dependencies": [{"basedOn": null, "packageRef": {"identity": "swift-nio", "kind": "remote", "name": "swift-nio", "path": "https://github.com/apple/swift-nio.git"}, "state": {"checkoutState": {"branch": null, "revision": "43931b7a7daf8120a487601530c8bc03ce711992", "version": "2.25.1"}, "name": "checkout"}, "subpath": "swift-nio"}]}, "version": 4}

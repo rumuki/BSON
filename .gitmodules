@@ -1,0 +1,3 @@
+[submodule ".build/checkouts/swift-nio"]
+	path = .build/checkouts/swift-nio
+	url = https://github.com/apple/swift-nio
